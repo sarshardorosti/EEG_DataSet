@@ -225,12 +225,6 @@ Explore these platforms for additional EEG datasets:
 - **IEEE DataPort**: Datasets from IEEE, including EEG.  
   Address: https://ieee-dataport.org/
 
-## Contributing
-We welcome contributions to enhance this repository. To contribute:
-1. Verify dataset links and update their status if outdated.
-2. Add new EEG datasets with descriptions and verified addresses.
-3. Submit pull requests with clear, descriptive commit messages.
-
 Please review the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines. For questions or suggestions, open an issue or contact the maintainers.
 
 ## License
