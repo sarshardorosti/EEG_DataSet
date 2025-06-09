@@ -6,7 +6,7 @@
 
 This repository serves as a comprehensive resource for researchers, students, and professionals in brain-computer interfaces (BCI), neuroscience, and related fields, providing a curated collection of publicly available electroencephalography (EEG) datasets. Covering diverse applications such as motor imagery, emotion recognition, clinical EEG analysis, and more, this list aims to facilitate reproducible research and innovation. Each dataset includes a brief description and a verified address linking to its source, ensuring accessibility and accuracy. The repository is actively maintained, and contributions to expand or update the dataset list are encouraged.
 
-**Note**: All links have been verified as active and accessible as of June 7, 2025. Some datasets linked to articles may require contacting authors for access, and certain repositories necessitate searching for specific datasets. For the latest updates, explore platforms like OpenNeuro (Address: https://openneuro.org/) or ElectrophysiologyData (Address: https://github.com/openlists/ElectrophysiologyData).
+**Note**: All links have been verified as active and accessible as of June 9, 2025. Some datasets linked to articles may require contacting authors for access, and certain repositories necessitate searching for specific datasets. For the latest updates, explore platforms like OpenNeuro (Address: https://openneuro.org/) or ElectrophysiologyData (Address: https://github.com/openlists/ElectrophysiologyData).
 
 ## Table of Contents
 - [Motor Imagery](#motor-imagery)
@@ -61,6 +61,10 @@ This repository serves as a comprehensive resource for researchers, students, an
   Address: https://moabb.neurotechx.com/docs/datasets.html
 - **Munich Motor Imagery Dataset**: Motor imagery dataset from Grosse-Wentrup et al. 2009. Available via MOABB.  
   Address: https://moabb.neurotechx.com/docs/datasets.html
+- **Comprehensive MI-BCI Dataset**: EEG recordings from 62 healthy subjects performing 2-class and 3-class motor imagery tasks across three sessions with 64 channels.  
+  Address: https://doi.org/10.25452/figshare.plus.22671172
+- **Cross-session MI BCI Dataset**: EEG data from 25 subjects over five days, addressing cross-session variability in motor imagery tasks.  
+  Address: https://www.nature.com/articles/s41597-022-01647-1
 
 ## Emotion Recognition
 - **DEAP**: 32 subjects, music-video excerpts rated for arousal/valence/like-dislike/dominance/familiarity, frontal face recordings for 22/32. Includes EEG, physiological signals, and video data. Cited in 11 papers, 1 benchmark.  
@@ -81,6 +85,10 @@ This repository serves as a comprehensive resource for researchers, students, an
   Address: http://www.eecs.qmul.ac.uk/mmv/datasets/amigos/
 - **PhyMER**: 30 participants, EEG, EDA, BVP, temperature, with arousal, valence, and personality annotations.  
   Address: https://zenodo.org/record/5802417
+- **Enterface'06**: Multimodal dataset with EEG from 16 subjects using 64 channels for emotion recognition with audio and video. May require searching for download links.  
+  Address: http://www.enterface.net/results/
+- **Imagined Emotion**: EEG recordings from 31 subjects during imagined emotions, supporting emotion recognition research.  
+  Address: https://openneuro.org/datasets/ds003004/versions/1.1.1
 
 ## Error-Related Potentials (ErrP)
 - **BCI-NER Challenge**: 26 subjects, 56 EEG channels, P300 Speller task, labeled for correct/incorrect decoding.  
@@ -105,6 +113,8 @@ This repository serves as a comprehensive resource for researchers, students, an
   Address: https://physionet.org/content/mssvepdb/1.0.0/
 - **SEED-VIG**: EEG features (PSD, DE) from 17 subjects during a simulated driving task, vigilance labels, 17 EEG channels. Cited in 2 papers.  
   Address: http://bcmi.sjtu.edu.cn/-seed/seed-vig.html
+- **Natural Image Recognition EEG Dataset**: EEG responses from 10 participants to object images, with 82,160 trials for visual object recognition.  
+  Address: https://osf.io/3jk45/
 
 ## Event-Related Potentials (ERPs)
 - **Pattern Visual Evoked Potentials**: 2 subjects, checkboard pattern, oddball paradigm, related to Brain Invaders ERP data.  
@@ -175,6 +185,12 @@ This repository serves as a comprehensive resource for researchers, students, an
   Address: https://zenodo.org/record/6347355
 - **I-CARE**: EEG and ECG from comatose patients post-cardiac arrest, ICU monitoring.  
   Address: https://physionet.org/content/icare/1.0/
+- **IED EEG Dataset**: EEG data from 84 patients with interictal epileptiform discharges and normal EEG, recorded with 19 channels.  
+  Address: https://doi.org/10.6084/m9.figshare.28069568
+- **Melbourne-NeuroVista Seizure Trial (Neurovista Ictal)**: Intracranial EEG from epilepsy patients for seizure prediction studies.  
+  Address: https://melbourne.figshare.com/articles/dataset/Seizure_Data/6939809
+- **Kaggle UPenn and Mayo Clinic's Seizure Detection Challenge**: EEG recordings from human and canine subjects for seizure detection, with 16–76 channels. Requires Kaggle account.  
+  Address: https://www.kaggle.com/competitions/seizure-detection/data
 
 ## Miscellaneous
 - **MNIST Brain Digits**: EEG for digits (0-9) shown to a subject, 2s recordings, 1.2M+ samples.  
@@ -205,6 +221,12 @@ This repository serves as a comprehensive resource for researchers, students, an
   Address: https://figshare.com/articles/dataset/EEG_and_NIRS_data_during_mental_arithmetic_tasks/1234570
 - **WWU DUNEuro Reference Dataset**: High-quality head models, combined EEG/MEG data for source analysis. Cited in 1 paper.  
   Address: https://zenodo.org/record/4541339
+- **MSS Dataset**: Multi-subject EEG dataset from 32 participants for image recognition using RSVP and low-speed paradigms.  
+  Address: https://openneuro.org/datasets/ds005589
+- **TDBRAIN Dataset**: EEG data from 1200 subjects for large-scale clinical and research studies. Requires access request.  
+  Address: https://brainclinics.com/resources/
+- **PEERS Dataset**: EEG from over 300 subjects during five memory task experiments.  
+  Address: https://memory.psych.upenn.edu/Penn_Electrophysiology_of_Encoding_and_Retrieval_Study
 
 ## Additional Resources
 Explore these platforms for additional EEG datasets:
